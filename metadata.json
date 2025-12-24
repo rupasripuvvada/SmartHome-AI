@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartShelf AI - Home Inventory & Monitoring",
+  "description": "An intelligent home inventory management system with AI-powered OCR, recipe generation, meal planning, and waste analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
